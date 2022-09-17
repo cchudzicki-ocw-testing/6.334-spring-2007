@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with a
+  list of lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -79,7 +81,7 @@ Introduction to DC/DC converters ({{% resource_link 888fe7fe-65db-b6f1-1dc9-03f8
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to magnetics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 5e2f970d-6c7c-0ad9-11c6-2677e1b9fb82 "PDF - 2.0 MB" %}})
+Introduction to magnetics ({{% resource_link 5e2f970d-6c7c-0ad9-11c6-2677e1b9fb82 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Introduction to magnetics (![This resource may not render correctly in a screen 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Isolated DC/DC converters (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cf6a9fdc-d557-9a12-70e4-cb03707ec4cf "PDF" %}})
+Isolated DC/DC converters ({{% resource_link cf6a9fdc-d557-9a12-70e4-cb03707ec4cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Isolated DC/DC converters (![This resource may not render correctly in a screen 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling and control (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e9d7d5e6-a5ed-ace8-230f-01b0b6c20f8f "PDF - 1.9 MB" %}})
+Modeling and control ({{% resource_link e9d7d5e6-a5ed-ace8-230f-01b0b6c20f8f "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +108,7 @@ Modeling and control (![This resource may not render correctly in a screen reade
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Inverters (DC/AC converters) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 62f391a5-6d14-d3ee-d360-136016e1c1c1 "PDF - 1.6 MB" %}})
+Inverters (DC/AC converters) ({{% resource_link 62f391a5-6d14-d3ee-d360-136016e1c1c1 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Inverters (DC/AC converters) (![This resource may not render correctly in a scre
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Switching-mode rectifiers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link dcf018ab-b0ce-f7df-6954-62514ddc132a "PDF" %}})
+Switching-mode rectifiers ({{% resource_link dcf018ab-b0ce-f7df-6954-62514ddc132a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ Switching-mode rectifiers (![This resource may not render correctly in a screen 
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Switching losses and snubbers (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 28ee2445-366f-d5a9-7fef-39876df4efd1 "PDF" %}})
+Switching losses and snubbers ({{% resource_link 28ee2445-366f-d5a9-7fef-39876df4efd1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ Switching losses and snubbers (![This resource may not render correctly in a scr
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Soft-switching techniques (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 196e7f10-baa8-1545-c3cb-cad8783633ba "PDF" %}})
+Soft-switching techniques ({{% resource_link 196e7f10-baa8-1545-c3cb-cad8783633ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +144,7 @@ Soft-switching techniques (![This resource may not render correctly in a screen 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Thermal modeling and heat sinking (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cbed4e30-ff8e-5888-f513-153b291e8635 "PDF" %}})
+Thermal modeling and heat sinking ({{% resource_link cbed4e30-ff8e-5888-f513-153b291e8635 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ Thermal modeling and heat sinking (![This resource may not render correctly in a
 14
 {{< tdclose >}}
 {{< tdopen >}}
-EMI (electromagnetic interference) filtering (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 277f605b-ca97-c4b4-8ae7-d777aca88435 "PDF" %}})
+EMI (electromagnetic interference) filtering ({{% resource_link 277f605b-ca97-c4b4-8ae7-d777aca88435 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +162,7 @@ EMI (electromagnetic interference) filtering (![This resource may not render cor
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Three-phase systems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e0761090-e62c-474d-8311-3e2d3111d79d "PDF - 1.0 MB" %}})
+Three-phase systems ({{% resource_link e0761090-e62c-474d-8311-3e2d3111d79d "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +171,7 @@ Three-phase systems (![This resource may not render correctly in a screen reader
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Resonant converters and RF (radio frequency) power circuits (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 69c85005-98ca-48cb-beed-15abcc296957 "PDF - 1.6 MB" %}})
+Resonant converters and RF (radio frequency) power circuits ({{% resource_link 69c85005-98ca-48cb-beed-15abcc296957 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
